@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* css Document */
+
+body
+{
+    background: url("1.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+#login_box
+{
+    width: 20%;
+    height: 400px;
+    background: #00000060;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px 50px;
+}
+
+#login_box h2
+{
+    color: #FFFFFF90;
+    margin-top: 5%;
+}
+
+#login_box #from #input_box
+{
+    margin-top: 5%;
+}
+
+#login_box #from #input_box i
+{
+    color: #FFFFFF;
+}
+
+#login_box #from #input_box input
+{
+    border: 0;
+    width: 60%;
+    font-size: 15px;
+    color: #FFFFFF;
+    background: #FFFFFF00;
+    border-bottom: 2px solid #FFFFFF;
+    margin-top: 10px;
+}
+
+#login_box button
+{
+    margin-top:  50px;
+    width: 40%;
+    height: 20px;
+    border-radius: 10px;
+    border: 0;
+    color: #FFFFFF;
+    font-size: 15px;
+    background-image: linear-gradient(to right,#b8cbb8 0%,#b8cbb8 0%,#cf6cc9 33%,#ee609c 66%,#ee709c 100%);
+}
+
+#login_box #Sign
+{
+    margin-top: 45%;
+    margin-left: 75%;
+}
+
+#login_box #Sign a
+{
+    color: #894648;
+
+}
